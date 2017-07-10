@@ -1,0 +1,28 @@
+banner {
+align:center;
+background-color:black;
+}
+.top { text-align:center; background-color:black; padding:0px; }
+.main { width:850px; text-align:left; font-family:Georgia,Verdana,Times New Roman,Times; font-size:150%; margin-top:5px; }
+.maintext a:link { color:#008B00 }
+.maintext a:visited { color:#008B00 }
+.maintextcontact a:link { color:#008B00 }
+.maintextcontact a:visited { color:#008B00 }
+.pagetitle { color:#008B00; font-weight:bold; border-bottom:1px solid #008B00; }
+.maintext { width:600px; text-align:left; font-family:Georgia,Verdana,Times New Roman,Times; font-size:100%; }
+.maintextcontact { width:600px; text-align:left; font-family:Georgia,Verdana,Times New Roman,Times; font-size:100%; }
+.maintop { font-family:Georgia,Verdana,Times New Roman,Times; font-size:16pt; margin-top:10px; margin-bottom:10px; display:none; }
+.sidebar { width:180px; text-align:left; font-size:100%; margin-bottom:10px; }
+.sidelink { color:#003F87; border:1px dashed #003F87; padding:2px; }
+.sidelinkon { color:#008B00; border:1px solid #008B00; padding:2px; }
+.footer { color:#999999; font-family:Georgia,Verdana,Times New Roman,Times; font-size:100%;  }
+.footer a:link { color:#999999; }
+.footer a:visited { color:#999999; }
+.sidelink a:link { color:#003F87; }
+.sidelink a:visited { color:#003F87; }
+.sidetitle { color:#000000; font-weight:bold; }
+.maintext img { padding-left:10px; }
+.maintextcontact img { padding-left:0px; }
+li {
+margin: 1em 0 1em 0;
+}
